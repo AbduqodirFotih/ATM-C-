@@ -1,0 +1,3 @@
+D:/c++ projects/VAZIFA BANKOMAT/bigProject/cmake-build-debug/CMakeFiles/bigProject.dir
+D:/c++ projects/VAZIFA BANKOMAT/bigProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c++ projects/VAZIFA BANKOMAT/bigProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
